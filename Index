@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restora - Home PC Repair Service</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #2a6db6;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    header p {
+      font-size: 18px;
+    }
+    section {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    section h2 {
+      color: #2a6db6;
+    }
+    .service-list {
+      list-style: none;
+      padding: 0;
+    }
+    .service-list li {
+      margin: 10px 0;
+    }
+    .contact {
+      background-color: #e0f4ff;
+      padding: 20px;
+      border-radius: 8px;
+      margin-top: 30px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+      background-color: #2a6db6;
+      color: white;
+      margin-top: 40px;
+    }
+    footer a {
+      color: white;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Restora - Home PC Repair & Diagnosis</h1>
+    <p>We fix your PC at your doorstep. Fast, reliable, and affordable.</p>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul class="service-list">
+      <li>PC not turning on or running slow</li>
+      <li>Virus & malware removal</li>
+      <li>System clean-up & optimization</li>
+      <li>Hardware upgrades & replacements</li>
+      <li>Wi-Fi & internet troubleshooting</li>
+    </ul>
+
+    <div class="contact">
+      <h2>Contact Us</h2>
+      <p><strong>Phone:</strong> 123-456-7890</p>
+      <p><strong>Email:</strong> contact@restora.com</p>
+      <p><strong>Location:</strong> [Your City or Region]</p>
+      <p>We come to your home to fix your PC issues with no hassle!</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Restora - Home PC Repair Service</p>
+    <p><a href="mailto:contact@restora.com">Email Us</a></p>
+  </footer>
+
+</body>
+</html>
