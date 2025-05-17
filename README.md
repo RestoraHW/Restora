@@ -1,2 +1,2 @@
 # Restora
-PC Diagnose/Repair Service
+PC Repair and Diagnosis Service - Restora
